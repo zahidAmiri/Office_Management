@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'Ancizar Serif';
+    src: url('/fonts/AncizarSerif/AncizarSerif-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+    font-family: 'Lateef';
+    src: url('/fonts/Kufam/Kufam-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+    /* Bahij Mitra-Bold.ttf */
+    font-family: 'myfont';
+    src: url('/fonts/myfont/Bahij Droid Naskh-Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: bold;
+    font-display: swap;
+}
+
+@layer components{
+    .mystyle {
+        @apply text-5xl font-bold text-red-500 underline;
+    }
+}

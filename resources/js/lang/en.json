@@ -1,0 +1,288 @@
+{
+    "department": {
+      "add": "Add Department",
+      "search": "Search department",
+      "trash": "Trash",
+      "edit": "Edit",
+      "name": "Name",
+      "code": "Code",
+      "department_head": "Department Head",
+      "actions": "Actions",
+      "restore_all": "Restore All",
+      "restore_one": "Restore",
+      "description": "Description",
+      "delete": "Delete",
+      "back": "Back",
+      "not_found": "No Department Found",
+      "not_trash_found": "Not Trashed Department Found",
+      "cancel": "Cancel",
+      "save": "Save",
+      "print" : "Print"
+    },
+    "language": {
+    "label": "Language",
+    "english": "English",
+    "pashto": "Pashto"
+  }
+
+  ,
+  "dashboard": {
+  "title": "Admin Dashboard",
+  "employees": "Employees",
+  "departments": "Departments",
+  "leaves": "Leaves",
+  "supplies": "Supplies",
+  "store_items": "Store Items",
+  "distributions": "Distribution",
+  "transfer": "Experiment Transfer",
+  "return": "Expeeriment Return",
+  "users": "System Users",
+  "recent_employees": "Recent Added Employees",
+  "name": "Name",
+  "date": "Joined Date"
+}
+,
+  "sidebar": {
+  "title": "Office MIS",
+  "dashboard": "Dashboard",
+  "departments": "Departments",
+  "employees": "Employees",
+  "leave_allocation": "Leave Allocation",
+  "leave": "Leaves",
+  "supply": "Supply",
+  "store": "Store",
+  "distribution": "Distribution",
+  "transfer": "Experimental Distribution",
+  "return": "Expeeriment Return",
+  "register": "Register a new User",
+  "setting": "Backup",
+  "used_store" : "Used Store"
+
+}
+,
+  "navbar": {
+  "title": "Office MIS",
+  "profile": "Profile",
+  "setting": "Settings",
+  "logout": "Logout"
+
+},
+
+"employee": {
+      "add": "Add Employee",
+      "edit_title": "Add Employee",
+      "search": "Search Employee",
+      "trash": "Trash",
+      "edit": "Edit",
+      "name": "Name",
+      "father_name": "Father Name",
+      "last_name": "Last Name",
+      "ranking": "Ranking",
+      "contact": "Contact",
+      "id_number": "ID Number",
+      "card_number": "Card Number",
+      "department": "Department",
+      "image": "Image",
+      "actions": "Actions",
+      "description": "Description",
+      "select_department": "Select Department",
+      "back": "Back",
+      "not_found": "No Employee Found",
+      "not_trash_found": "Not Trashed Department Found",
+      "cancel": "Cancel",
+      "save": "Save",
+      "restore_all": "Restore All",
+      "restore_one": "Restore",
+      "delete": "Delete",
+      "print" : "Print"
+    },
+
+
+
+    "leave_allocation": {
+      "add": "Add Allocation",
+      "title": "Leave Allocation",
+      "employee": "Employee",
+      "leave_type": "Leave Type",
+      "total_days":"Total Days",
+      "used_days": "User Days",
+      "remaining_days": "Remaining Days",
+      "select_employee": "Select Employee",
+      "select_leave_type": "Select Leave Type",
+      "cancel": "Cancel",
+      "save": "Save",
+      "not_found": "Not Found",
+      "days": "Days",
+      "print" : "Print"
+    }
+
+    ,
+
+
+    "leave": {
+      "add": "Add Leave Request",
+      "employee": "Employee",
+      "leave_type": "Leave Type",
+      "total_days":"Total Days",
+      "days": "Days",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "date": "Date",
+      "used_days": "User Days",
+      "remaining_days": "Remaining Days",
+      "select_employee": "Select Employee",
+      "select_leave_type": "Select Leave Type",
+      "cancel": "Cancel",
+      "save": "Save",
+      "not_found": "Not Found",
+      "print" : "Print"
+    }
+
+    ,
+
+
+    "supply": {
+      "add": "Add Supply",
+      "print_all": "Print All",
+      "product": "Product",
+      "quantity":"QTY",
+      "unit": "Unit",
+      "type": "Type",
+      "supplier": "Supplier",
+      "recipient": "Recipient",
+      "date": "Date",
+      "description": "Description",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "print_one": "Print",
+      "cancel": "Cancel",
+      "add_button": "Add"
+    }
+    ,
+
+
+    "store": {
+      "product_name": "Product Name",
+      "title": "Store Inventory",
+      "product": "Product",
+      "quantity":"Quantity",
+      "unit": "Unit",
+      "description": "Description"
+    }
+
+    ,
+
+
+    "distribution": {
+      "add": "Distribute",
+      "title": "Distributed Products",
+      "product": "Product",
+      "quantity":"QTY",
+      "unit": "Unit",
+      "remaining": "Remaining",
+      "distributer": "Ditributer",
+      "recipient": "Recipient",
+      "date": "Date",
+      "description": "Description",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "distribute": "Distribute",
+      "form_title_add": "Add New Distribution",
+      "form_title_edit": "Edit Distribution",
+      "select": "Select",
+      "update": "Update"
+    }
+    ,
+
+
+    "ex_distribution": {
+      "add": "Distribute",
+      "title": "Experimental Distributions",
+      "product": "Product",
+      "quantity":"Quantity",
+      "unit": "Unit",
+      "type": "Type",
+      "distributed_by": "Distributed_By",
+      "recipient": "Recipient",
+      "date": "Date",
+      "description": "Description",
+      "actions": "Actions",
+      "condition": "Condition",
+      "delete": "Delete",
+      "distribute": "Distribute",
+      "department": "Department",
+      "select": "Select",
+      "update": "Update",
+      "select_department": "Select Department",
+      "select_product": "Select Product",
+      "select_unit": "Select Unit",
+      "select_recipient": "Select Recipient",
+      "select_distributer": "Select Distributer",
+      "cancel": "Cancel",
+      "from_new": "New Store",
+    "from_used": "Used Store",
+    "used_level": "Level"
+    }
+
+    ,
+
+
+    "ex_return": {
+      "title": "Return Experimental Equipments",
+      "product": "Product",
+      "quantity":"Quantity",
+      "unit": "Unit",
+      "recipient": "Recipient",
+      "transfer_date": "Date",
+      "return_date": "Return Date",
+      "return_description": "Return Description",
+      "transfered_condition": "Transfered Condition",
+      "return_condition": "Returned Condition",
+      "department": "Department",
+      "cancel": "Cancel",
+      "status": "Status",
+      "actions" : "Actions",
+      "Returned": "Returned",
+      "return": "Return",
+      "In Working": "In Working",
+      "description": "Description",
+      "condition": "Condition"
+
+    }
+
+    ,
+
+
+    "register": {
+      "title": "Register a New User",
+      "name": "Name",
+      "email": "Email",
+      "password":"Password",
+      "confirm_password": "Confirm Password",
+      "register": "Register"
+    }
+    ,
+
+
+    "print_department": {
+      "name": "Name",
+      "code": "Code",
+      "department_head": "Department Head",
+      "description":"Description"
+    }
+
+    ,
+
+
+    "used_store": {
+      "product_name": "Product Name",
+      "title": "Store Inventory",
+      "product": "Product",
+      "quantity":"Quantity",
+      "unit": "Unit",
+      "description": "Description",
+      "condition": "Condition"
+    }
+  }

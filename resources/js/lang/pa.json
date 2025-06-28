@@ -1,0 +1,287 @@
+{
+    "department": {
+      "add": "څانګه اضافه کول",
+      "search": "لټول",
+      "trash": "ټرش",
+      "edit": "تصحیح",
+      "name": "نوم",
+      "code": "کود",
+      "department_head": "دڅانګې مشر",
+      "actions": "کړنې",
+      "restore_all": "ټول بیرته راګرځول",
+      "restore_one": "بیرته راګرځول",
+      "description": "توضیحات",
+      "delete": "ړنګول",
+      "back": "شا ته",
+      "not_found": "څانګه شتون نلري",
+      "not_trash_found": "په ټرش کې څانګه شتون نلري!",
+      "cancel": "لغو",
+      "save": "ذخیره"
+      ,
+      "print" : "چــــاپ"
+    },
+   "language": {
+    "label": "ژبه",
+    "english": "انګلیسي",
+    "pashto": "پښتو"
+  }
+
+  ,
+  "dashboard": {
+  "title": "د اډمین پاڼه",
+  "employees": "کارکوونکي",
+  "departments": "څانګې",
+  "leaves": "رخصت",
+  "supplies": "اکمال",
+  "store_items": "ګدام کې مواد",
+  "distributions": "توزیع",
+  "transfer": "تجرباتو وصایلو توزیع",
+  "return": "تجرباتو وسایلو وصول",
+  "users": "د سیستم کاروونکي",
+  "recent_employees": "تازه اضافه شوي کاروونکي",
+  "name": "نوم",
+  "date": "د اضافه کېدو تاریخ"
+}
+,
+  "sidebar": {
+    "title": " معلوماتي سیستم",
+  "dashboard": "ډشبورډ",
+  "departments": "څانګې",
+  "employees": "کارکوونکي",
+  "leave_allocation": "دکارکوونکو رخصتي",
+  "leave": "رخصتي ورکول",
+  "store": "ګـــــــدام",
+  "supply": "اکمال",
+  "distribution": "توزیـــع",
+  "transfer": "د تجربې وسایلو توزیع",
+  "return": "د تجربې وسایلو وصول",
+  "register": "نوی کاروونکی اضافه کول",
+  "setting": "بیک اپ",
+  "used_store" : "مستعمل سټور "
+
+}
+
+,
+  "navbar": {
+  "title": "Office MIS",
+  "profile": "فروفایل",
+  "setting": "تنظیمات",
+  "logout": "وتل"
+
+}
+,
+"employee": {
+      "add": "کارکوونکی زیات کړئ",
+      "edit_title": "تصحیح کړئ",
+      "search": "کارکوونکی پیدا کړئ",
+      "trash": "ټرش",
+      "edit": "تصحیح",
+      "name": "نوم",
+      "last_name": "تخلص",
+      "id_number": "تذکرې نمبر",
+      "card_number": "کارټ نمبر",
+      "father_name": "پلار نوم",
+      "ranking": "رتبه",
+      "contact": "موبایل نمبر",
+      "department": "څانګه",
+      "image": "تصویر",
+      "actions": "کړنې",
+      "description": "توضیحات",
+      "select_department": "څانګه انتخاب کړئ",
+      "back": "شاته",
+      "not_found": "کارکوونکی پیدا نشو",
+      "not_trash_found": "ټرش کارکوونکی پیدا نشو",
+      "cancel": "لغو",
+      "save": "ذخیره",
+      "restore_all": "ټول بیرته راګرځول",
+      "restore_one": "بیرته راګرځول",
+      "delete": "حذف",
+      "print" : "چــــاپ"
+    }
+
+
+    ,
+    "leave_allocation": {
+      "add": "رخصتي‌ اساین کړئ",
+      "title": "رخصتي‌ ورکول",
+      "employee": "کارکوونکی",
+      "leave_type": "رخصتی ډول",
+      "total_days":"ټولې ورځې",
+      "used_days": "استفاده شوې ورځې",
+      "remaining_days": "پاتې ورځې",
+      "select_employee": "کارکوونکی انتخاب کړئ",
+      "select_leave_type": "رخصتی ډول انتخاب کړئ",
+      "cancel": "لغو",
+      "save": "ذخیره",
+      "not_found": "رخصتي‌ شتون نلري",
+      "days": "ورځې",
+      "print" : "چــــاپ"
+    }
+
+    ,
+
+
+    "leave": {
+      "add": "رخصتي ورکړئ",
+      "employee": "کارکوونکی",
+      "leave_type": "رخصتی ډول",
+      "total_days":"ټولې ورځې",
+      "days": "ورځې",
+      "start_date": "شروع تاریخ",
+      "end_date": "پای تاریخ",
+      "date": "تاریخ",
+      "used_days": "استفاده شوې ورځې",
+      "remaining_days": "پاتې ورځې",
+      "select_employee": "کارکوونکی انتخاب کړئ",
+      "select_leave_type": "رخصتی ډول انتخاب کړئ",
+      "cancel": "لغو",
+      "save": "ذخیره",
+      "not_found": "رخصتي‌ شتون نلري",
+      "print" : "چــــاپ"
+    }
+
+    ,
+
+    "supply": {
+      "add": "اکمال اضافه کړئ",
+      "print_all": "چاپ کړئ",
+      "product": "محصول نوم",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "type": "ډول",
+      "supplier": "ورکوونکی",
+      "recipient": "اخستونکی",
+      "date": "تاریخ",
+      "description": "توضیحات",
+      "actions": "کړنې",
+      "edit": "تصحیح",
+      "delete": "حذف",
+      "print_one": "چاپ",
+      "cancel": "لغو",
+      "add_button": "ذخیره"
+    }
+
+    ,
+
+
+    "store": {
+      "product_name": "محصول نوم",
+      "title": "ګــــدام",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "description": "توضیحات"
+    }
+    ,
+
+
+    "distribution": {
+      "add": "توزیع کړئ",
+      "title": "توزیع شوي‌ محصولات",
+      "product": "محصول",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "remaining": "پاتې",
+      "distributer": "ورکوونکی",
+      "recipient": "اخستونکی",
+      "date": "تاریخ",
+      "description": "توضیحات",
+      "actions": "کړنې",
+      "edit": "تصحیح",
+      "delete": "حذف",
+      "distribute": "توزیع",
+      "form_title_add": "نوې توزیع اضافه کړئ",
+      "form_title_edit": "توزیع تصحیح کړئ",
+      "select": "انتخاب کړئ",
+      "update": "اپډیټ"
+    }
+
+    ,
+
+
+    "ex_distribution": {
+      "add": "توزیع کړئ",
+      "title": "دتجربوي وسایلو توزیع",
+      "product": "محصول",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "type": "ډول",
+      "distributed_by": "ورکوونکی",
+      "recipient": "اخستونکی",
+      "date": "تاریخ",
+      "description": "توضیحات",
+      "actions": "کړنې",
+      "condition": "د محصول اوسنی حالت",
+      "delete": "حذف",
+      "distribute": "توزیع",
+      "department": "څانګه",
+      "select": "انتخاب کړئ"
+      ,
+      "select_department": "څانګه انتخاب کړئ",
+      "select_product": "محصول انتخاب کړئ",
+      "select_unit": "واحد انتخاب کړئ",
+      "select_recipient": "اخستونکی انتخاب کړئ",
+      "select_distributer": "ورکوونکی انتخاب کړئ",
+      "cancel": "لغو",
+      "from_new": "نوی سټور",
+    "from_used": " مستعمل سټور",
+    "used_level": "حالت"
+    }
+    ,
+
+
+    "ex_return": {
+      "title": "دتجربوي‌ وسایلو وصول پاڼه",
+      "product": "محصول",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "recipient": "اخستونکی",
+      "transfer_date": "تاریخ",
+      "return_date": "دوصول تاریخ",
+      "return_description": "دوصول توضیحات",
+      "transfered_condition": "دتوزیع حالت",
+      "return_condition": "دوصول حالت",
+      "department": "څانګه",
+      "cancel": "لغو",
+      "status": "حالت",
+      "actions" : "کړنې",
+      "Returned": "وصول شوی",
+      "return": "وصول کړئ",
+      "In Working": "دکارولو په جریان کې",
+      "description": "توضیحات",
+      "condition": "حالت"
+    }
+    ,
+
+
+    "register": {
+      "title": "نوی کاروونکی ثبت پاڼه",
+      "name": "نوم",
+      "email": "ایمیل",
+      "password":"پټ نوم",
+      "confirm_password": "بیا ځلې پټ نوم",
+      "register": "ثبت"
+    }
+
+    ,
+
+
+    "print_department": {
+      "name": "نوم",
+      "code": "کوډ",
+      "department_head": "دڅانګې مشر",
+      "description":"توضیحات"
+    }
+
+    ,
+
+
+    "used_store": {
+      "product_name": "محصول نوم",
+      "title": "ګــــدام",
+      "quantity":"تعداد",
+      "unit": "واحد",
+      "description": "توضیحات",
+      "condition": "حالت"
+    }
+
+  }
